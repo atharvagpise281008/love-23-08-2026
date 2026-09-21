@@ -5,7 +5,7 @@ export const DEFAULT_CONFIG: AppConfig = {
   senderName: 'Yours Forever',
   // Romantic couple mirror selfie with love vibes
   mainPhoto: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1000&auto=format&fit=crop',
-  polaroidText: 'Happy Birthday ❤️',
+  polaroidText: 'Happy Birthday Anu ❤️',
   passcode: '1234',
   cakeHeading: 'Swipe to Cut the Cake! 🎂',
   cakeCelebrationText: 'Happy Birthday, My Love! 💖',
